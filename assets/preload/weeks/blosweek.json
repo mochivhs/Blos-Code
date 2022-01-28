@@ -1,0 +1,57 @@
+{
+	"storyName": "Blos: i dont even know at this god damn point",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Blos",
+			"blos",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Balls",
+			"blos",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"BlosMochi",
+			"theduo",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Deat",
+			"blos",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Blos Week"
+}
